@@ -14,3 +14,5 @@ Mini site para gerenciar um cardápio de hamburgueres.
    ```bash
    cd backend
    mvn clean package
+Backend: http://localhost:8080/hamburgers
+Frontend: http://localhost:8081
